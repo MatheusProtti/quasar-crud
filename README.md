@@ -1,6 +1,6 @@
 # Projeto Final (projetofinal)
 
-Projeto Final Do Semestre, utilizando quasar framwork, Vue 3, axios e json-serverfoi criado um CRUD.
+Projeto Final Do Semestre, utilizando quasar framwork, Vue 3, axios e json-server foi criado um CRUD.
 
 Utilizando o axios para consumir uma api no front-end criamos um projeto novo para servir como a nossa Base de Dados e instalamos o json-server.
 

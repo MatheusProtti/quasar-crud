@@ -22,52 +22,19 @@ npm install json-server
   ]
 }
 ```
-npx json-server db.json
+
 ## Inicie o banco
 ```bash
 npx json-server db.json
 ```
 Agora o Projeto 
 
-## Instale as dependências
-```bash
-yarn
-# or
-npm install
-```
-
-### Inicie o aplicativo no modo de desenvolvimento (recarregamento de código ativo, relatório de erros, etc.)
-```bash
-quasar dev
-```
-
-
-### Lint os arquivos
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-
-### Formate os arquivos
-```bash
-yarn format
-# or
-npm run format
-```
-
-
-
-### Crie o aplicativo para produção
-```bash
-quasar build
-```
 
 ### Clonar o Projeto
 ```bash
 https://github.com/MatheusProtti/quasar-crud.git
 ```
+
 
 ### Personalize a configuração
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
